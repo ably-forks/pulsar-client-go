@@ -14,7 +14,7 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/google/uuid v1.6.0
 	github.com/hamba/avro/v2 v2.29.0
-	github.com/klauspost/compress v1.18.5
+	github.com/klauspost/compress v1.18.7
 	github.com/moby/moby/api v1.54.1
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.35.1
